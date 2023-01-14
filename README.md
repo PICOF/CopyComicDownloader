@@ -1,0 +1,2 @@
+# CopyComicDownloader
+基于go语言的一个拷贝漫画下载器
